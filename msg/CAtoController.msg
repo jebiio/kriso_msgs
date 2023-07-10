@@ -1,0 +1,9 @@
+float32 ca_alert_range
+float32 ca_avoid_range
+float32 ca_param1
+float32 ca_param2
+float32 ca_param3
+float32 ca_param4
+float32 ca_param5
+float32 ca_param6
+float32 ca_param7

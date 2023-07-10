@@ -1,0 +1,9 @@
+float64 target_wp_lat
+float64 target_wp_lon
+float32 targetposition_yaw
+float32 dp_surge_pgain
+float32 dp_surge_dgain
+float32 dp_sway_pgain
+float32 dp_sway_dgain
+float32 dp_yaw_pgain
+float32 dp_yaw_dgain
