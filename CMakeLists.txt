@@ -60,6 +60,8 @@ add_message_files(
   CKtoController.msg
   DPtoController.msg
   CAtoController.msg
+  MiddlewareAIS.msg
+  MiddlewareToVcc.msg
 )
 
 ## Generate services in the 'srv' folder
