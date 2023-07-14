@@ -4,8 +4,8 @@ int32 mmsi          # MMSI(Maritime Mobile Service Identity)
 int32 reserved_1    # 예약된 필드1
 float32 speed       # 선박 속도 knots
 bool accuracy       # 위치 정보 정확도
-float32 lon         # 경도
-float32 lat         # 위도
+float64 lon         # 경도
+float64 lat         # 위도
 float32 course      # COG
 int32 heading       # 헤딩
 int32 second        # 시간(초)
