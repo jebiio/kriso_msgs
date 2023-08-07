@@ -62,6 +62,9 @@ add_message_files(
   CAtoController.msg
   MiddlewareAIS.msg
   MiddlewareToVcc.msg
+  EmergencyStopCmd.msg
+  LoggingCmd.msg
+  LoggingStatus.msg
 )
 
 ## Generate services in the 'srv' folder
