@@ -65,6 +65,7 @@ add_message_files(
   EmergencyStopCmd.msg
   LoggingCmd.msg
   LoggingStatus.msg
+  MTCmd.msg
 )
 
 ## Generate services in the 'srv' folder
