@@ -66,6 +66,8 @@ add_message_files(
   LoggingCmd.msg
   LoggingStatus.msg
   MTCmd.msg
+  VccToPlc.msg
+  PlcToVcc.msg
 )
 
 ## Generate services in the 'srv' folder
