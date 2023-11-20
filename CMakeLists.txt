@@ -68,6 +68,8 @@ add_message_files(
   MTCmd.msg
   VccToPlc.msg
   PlcToVcc.msg
+  ToCooperation.msg
+  FromCooperation.msg
 )
 
 ## Generate services in the 'srv' folder
